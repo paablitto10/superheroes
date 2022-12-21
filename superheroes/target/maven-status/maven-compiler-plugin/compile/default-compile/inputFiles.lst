@@ -1,0 +1,9 @@
+/Users/pabo/Downloads/spring-crud-master copia/src/main/java/com/superheroes/crud/service/SuperheroesService.java
+/Users/pabo/Downloads/spring-crud-master copia/src/main/java/com/superheroes/crud/exception/AppException.java
+/Users/pabo/Downloads/spring-crud-master copia/src/main/java/com/superheroes/crud/config/SwaggerConfig.java
+/Users/pabo/Downloads/spring-crud-master copia/src/main/java/com/superheroes/crud/payload/SuperheroesRequest.java
+/Users/pabo/Downloads/spring-crud-master copia/src/main/java/com/superheroes/crud/repository/SuperheroesRepository.java
+/Users/pabo/Downloads/spring-crud-master copia/src/main/java/com/superheroes/crud/service/impl/SuperheroesServiceImpl.java
+/Users/pabo/Downloads/spring-crud-master copia/src/main/java/com/superheroes/crud/controller/SuperheroesController.java
+/Users/pabo/Downloads/spring-crud-master copia/src/main/java/com/superheroes/crud/model/Superheroes.java
+/Users/pabo/Downloads/spring-crud-master copia/src/main/java/com/superheroes/crud/CrudApplication.java

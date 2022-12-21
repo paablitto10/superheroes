@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.superheroes.crud.controller.SuperheroesServiceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.931 s - in com.superheroes.crud.controller.SuperheroesServiceTest
